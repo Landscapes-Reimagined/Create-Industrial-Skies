@@ -1,0 +1,71 @@
+{
+  "config_version": "2.0.12",
+  "config_datetime": "2026-09-09_10-22-12",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "exosphere:ceiling_dripstone",
+      "is_disabled": true
+    },
+    {
+      "name": "exosphere:dripstone_ceiling",
+      "is_disabled": true
+    }
+  ],
+  "biomes": [
+    {
+      "name": "minecraft:cold_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:deep_cold_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:deep_frozen_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:deep_lukewarm_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:deep_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:dripstone_caves",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:frozen_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:frozen_river",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:lukewarm_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:river",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:sulfur_caves",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:warm_ocean",
+      "is_disabled": true
+    }
+  ]
+}
